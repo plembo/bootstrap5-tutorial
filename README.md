@@ -1,2 +1,10 @@
-# bootstrap-5-tutorial
-All course files for the Bootstrap 5 tutorial series on Net Ninja.
+# Bootstrap 5 Crash Course
+From the [Net Ninja](https://netninja.dev/):
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+
+Associated Github repo (from which this is forked):
+
+https://github.com/iamshaunjp/bootstrap-5-tutorial
+
+The above repo is cleverly set up with a separate branch for each lesson.
