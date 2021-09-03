@@ -5,7 +5,7 @@ Get started.
 
 Create index.html in vscode.
 
-Type doc and then hit ```TAB``` to create boilerplate HTML 5 doc.
+Type doc and then hit tab to create boilerplate HTML 5 doc.
 
 Copy Bootstrap CDN links to paste into index.html file:
 
@@ -156,3 +156,22 @@ Font weight:
 
 fw - font weight
 fst - font style
+
+## Lesson 6
+Containers.
+
+```html
+<div class="container">
+```
+
+```html
+<div class="container-fluid">
+````
+
+```html
+<div class="container-lg">
+```
+
+```html
+<div class="container-xl">
+```
