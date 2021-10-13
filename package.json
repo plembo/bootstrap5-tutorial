@@ -1,0 +1,22 @@
+{
+  "name": "bs5-crash-course",
+  "version": "1.0.0",
+  "description": "From the [Net Ninja](https://netninja.dev/):",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plembo/bs5-crash-course.git"
+  },
+  "author": "Phil Lembo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plembo/bs5-crash-course/issues"
+  },
+  "homepage": "https://github.com/plembo/bs5-crash-course#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
