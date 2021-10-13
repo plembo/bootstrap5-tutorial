@@ -175,3 +175,12 @@ Containers.
 ```html
 <div class="container-xl">
 ```
+
+
+## Lesson 19 Customizing Bootstrap
+
+
+## In General
+
+### Bootstrap css and js versions
+If you change the bootstrap css version (e.g. by npm installing a newer version than you previouly were using), make sure that your bootstrap js is at the same version or stuff may not work.
