@@ -15,3 +15,13 @@ $theme-colors: map-merge($custom-theme-colors, $theme-colors);
 
 // import bootstrap
 @import '../node_modules/bootstrap/scss/bootstrap';
+
+// Loop to add new background colors
+@each $key,$val in $custom-theme-colors {
+    .bg-#{$key}{
+        background-color: $val;
+    }
+    .text-#{$key}{
+        color: $val;
+    }
+}
