@@ -182,7 +182,7 @@ Containers.
 ### Override values of existing bootstrap css defaults
 Can do this by either creating your own stylesheet, or using a sass file.
 
-To use a sass file you need a local copy of bootstrap. This can be installed using npm (be sure to add source from [Node.gitignore](https://github.com/github/gitignore/blob/master/Node.gitignore)to your .gitignore).
+To use a sass file you need a local copy of bootstrap. This can be installed using npm (be sure to add source from [Node.gitignore](https://github.com/github/gitignore/blob/master/Node.gitignore) to your .gitignore).
 
 In project folder, create node project with new package.json:
 
